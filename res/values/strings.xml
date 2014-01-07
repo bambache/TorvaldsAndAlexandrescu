@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Torvalds and Alexandrescu</string>
+    <string name="action_settings">Settings</string>
+    <string name="AA_text">Andrei Alexandrescu is a Romanian C++ programmer and author. He is particularly known for his pioneering work on policy-based design implemented via template metaprogramming. These ideas are articulated in his book Modern C++ Design and were first implemented in his programming library, Loki. He also implemented the &quot;move constructors&quot; concept in his MOJO library. He contributed to the C/C++ Users Journal under the byline &quot;Generic&lt;Programming&gt;&quot;. Alexandrescu is currently a research scientist at Facebook.He is a developer of the D programming language.</string>
+    <string name="LT_text">Linus Benedict Torvalds (born December 28, 1969) is a Finnish American software engineer, who was the principal force behind the development of the Linux kernel. He later became the chief architect of the Linux kernel, and now acts as the project\'s coordinator. He also created the revision control system Git as well as the diving log software Subsurface. He was honored, along with Shinya Yamanaka, with the 2012 Millennium Technology Prize by the Technology Academy Finland &quot;in recognition of his creation of a new open source operating system for computers leading to the widely used Linux kernel&quot;.</string>
+    <string name="AA_name">Andrei Alexandrescu</string>
+    <string name="LT_name">Linus Torvalds</string>
+
+</resources>
